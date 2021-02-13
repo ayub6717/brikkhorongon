@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brikkhorongon/precache-manifest.73c139563ceb739c6a26488a6c2e05e2.js"
+  "/brikkhorongon/precache-manifest.3a2a7e0f6de3f33c59b39eb7a8eb2bfa.js"
 );
 
 self.addEventListener('message', (event) => {
