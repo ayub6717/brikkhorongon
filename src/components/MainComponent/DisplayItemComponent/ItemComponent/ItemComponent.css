@@ -1,0 +1,53 @@
+.myItem {
+  height: 190px;
+  width: 200px;
+  background-color: #E3E6E3;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+.myItem > img {
+  height: 70px;
+  width: 100px;
+}
+
+.detailsModal {
+  text-align: center;
+  padding: 20px;
+}
+
+.detailsModal > div > img {
+  height: 120px;
+  border-radius: 10px;
+  padding-left: 5px;
+  /* width: 50%; */
+}
+
+.ImagePrice {
+  display: flex;
+  padding: 10px;
+}
+
+.ImagePrice > p {
+  width: 50%;
+  margin-top: 40px;
+}
+
+.actionBtn {
+  opacity: 0.8;
+  font-size: 14px;
+}
+
+.deleteModal {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.deleteModal button {
+  width: 100px;
+}
+
+.deleteModal button:nth-child(2) {
+  margin-left: 30px;
+}

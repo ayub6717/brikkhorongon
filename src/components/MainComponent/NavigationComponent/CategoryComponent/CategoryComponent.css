@@ -1,0 +1,22 @@
+.category li {
+	cursor: pointer;
+}
+
+.category li.active {
+	border: 0;
+	background-color: #073b2f;
+	z-index: 0;
+}
+
+.closeCls {
+	float: left;
+}
+
+.submit {
+	float: right;
+}
+
+.category i {
+	height: 20px;
+	width: 20px;
+}

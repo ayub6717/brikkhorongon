@@ -1,0 +1,8 @@
+.pagination .page-item.active .page-link {
+	background-color: #588052;
+	border-color: #1d463c;
+}
+
+.pagination .page-item.active .page-link:focus {
+	box-shadow: none;
+}

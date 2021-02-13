@@ -1,0 +1,39 @@
+.img_1{
+    width: 90px;
+}
+.img_2{
+    width: 100%;
+}
+.icon_1{
+    margin-right: 29px;
+}
+.myItem {
+    /* background-color: #444e53; */
+    background-color: #195531c2;
+
+    color:white;
+    text-align: center;
+    
+  }
+
+  .pagination .page-item.active .page-link {
+	background-color: #009270;
+	border-color: #009270;
+}
+
+.pagination .page-item.active .page-link:focus {
+	box-shadow: none;
+}
+
+/* 
+@media screen and (min-width: 1040px) {
+    .dis_1{
+        display: none;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .dis_2{
+        display: none;
+    }
+  } */

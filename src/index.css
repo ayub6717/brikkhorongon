@@ -1,0 +1,14 @@
+body {
+  background-color: #E3E6E3;
+  margin: 0;
+  font-family: 'PT Sans', serif, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+}

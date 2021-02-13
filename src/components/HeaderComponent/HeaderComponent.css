@@ -1,0 +1,46 @@
+/* .myHeader {
+	height: 100px;
+	background-color: #335e46;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 30px;
+} */
+
+.fa-plus {
+	cursor: pointer;
+}
+
+.form-group > div {
+	display: flex;
+}
+.form-group > div > label {
+	width: 22%;
+}
+
+.form-group > div > .selectLabel {
+	margin-top: 5px;
+}
+
+.form-group > div > input,
+.form-group > div > select,
+.form-group > div > textarea {
+	width: 78%;
+}
+
+.myHeader h6 {
+	margin-top: 5px;
+	font-family: cursive;
+}
+
+.form-group > div .required {
+	position: absolute;
+	margin-left: 3px;
+	margin-top: 3px;
+	color: red;
+	font-size: 20px;
+}
+.form-group p {
+	color: #bd2130;
+	font-size: 13px;
+	margin-bottom: 5px;
+}
